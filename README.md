@@ -3,7 +3,7 @@ Minify HTML CSS and JS with PHP
 
 This plugin uses the online services of https://javascript-minifier.com and https://cssminifier.com provided by Andy Chilton, http://chilts.org/
 
-<img src="https://ronaldaug.ml/simple_minifier/folder.jpg" width="80%" height="auto">
+<img src="https://raw.githubusercontent.com/ronaldaug/simple_minifier/master/mini_includes/folders.jpg" width="80%" height="auto">
 
 
 
